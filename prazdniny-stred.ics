@@ -1,41 +1,43 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Your Organization//NONSGML Event//EN
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Školské prázdniny - stredné Slovensko
+X-WR-TIMEZONE:Europe/Bratislava
 
 BEGIN:VEVENT
-SUMMARY:🌷 Jarné prázdniny
-DTSTART;VALUE=DATE:20240301
-DTEND;VALUE=DATE:20240309
-DESCRIPTION:Jarné prázdniny na strednom Slovensku
+    SUMMARY:🌷 Jarné prázdniny
+    DTSTART;VALUE=DATE:20240301
+    DTEND;VALUE=DATE:20240309
+    DESCRIPTION:Jarné prázdniny na strednom Slovensku
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:🐣 Veľkonočné prázdniny
-DTSTART;VALUE=DATE:20240417
-DTEND;VALUE=DATE:20240423
-DESCRIPTION:Veľkonočné prázdniny na strednom Slovensku
+    SUMMARY:🐣 Veľkonočné prázdniny
+    DTSTART;VALUE=DATE:20240417
+    DTEND;VALUE=DATE:20240423
+    DESCRIPTION:Veľkonočné prázdniny na strednom Slovensku
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:🌴 Letné prázdniny
-DTSTART;VALUE=DATE:20240630
-DTEND;VALUE=DATE:20240901
-DESCRIPTION:Letné prázdniny na strednom Slovensku
+    SUMMARY:🌴 Letné prázdniny
+    DTSTART;VALUE=DATE:20240630
+    DTEND;VALUE=DATE:20240901
+    DESCRIPTION:Letné prázdniny na strednom Slovensku
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:🍂 Jesenné prázdniny
-DTSTART;VALUE=DATE:20241030
-DTEND;VALUE=DATE:20241101
-DESCRIPTION:Jesenné prázdniny na strednom Slovensku
+    SUMMARY:🍂 Jesenné prázdniny
+    DTSTART;VALUE=DATE:20241030
+    DTEND;VALUE=DATE:20241101
+    DESCRIPTION:Jesenné prázdniny na strednom Slovensku
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:🎄 Vianočné prázdniny
-DTSTART;VALUE=DATE:20241223
-DTEND;VALUE=DATE:20250108
-DESCRIPTION:Vianočné prázdniny na strednom Slovensku
+    SUMMARY:🎄 Vianočné prázdniny
+    DTSTART;VALUE=DATE:20241223
+    DTEND;VALUE=DATE:20250108
+    DESCRIPTION:Vianočné prázdniny na strednom Slovensku
 END:VEVENT
 
 END:VCALENDAR

@@ -1,42 +1,43 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Your Organization//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:Školské prázdniny - západné Slovensko
+X-WR-TIMEZONE:Europe/Bratislava
 
 BEGIN:VEVENT
-SUMMARY:🌷 Jarné prázdniny
-DTSTART;VALUE=DATE:20250217
-DTEND;VALUE=DATE:20250222
-DESCRIPTION:Jarné prázdniny od 17. februára do 21. februára 2025.
+    SUMMARY:🌷 Jarné prázdniny
+    DTSTART;VALUE=DATE:20250217
+    DTEND;VALUE=DATE:20250222
+    DESCRIPTION:Jarné prázdniny od 17. februára do 21. februára 2025.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:🐣 Veľkonočné prázdniny
-DTSTART;VALUE=DATE:20240401
-DTEND;VALUE=DATE:20240403
-DESCRIPTION:Veľkonočné prázdniny od 1. apríla do 2. apríla 2024.
+    SUMMARY:🐣 Veľkonočné prázdniny
+    DTSTART;VALUE=DATE:20240401
+    DTEND;VALUE=DATE:20240403
+    DESCRIPTION:Veľkonočné prázdniny od 1. apríla do 2. apríla 2024.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:🌴 Letné prázdniny
-DTSTART;VALUE=DATE:20240629
-DTEND;VALUE=DATE:20240901
-DESCRIPTION:Letné prázdniny od 29. júna do 1. septembra 2024.
+    SUMMARY:🌴 Letné prázdniny
+    DTSTART;VALUE=DATE:20240629
+    DTEND;VALUE=DATE:20240901
+    DESCRIPTION:Letné prázdniny od 29. júna do 1. septembra 2024.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:🍂 Jesenné prázdniny
-DTSTART;VALUE=DATE:20241030
-DTEND;VALUE=DATE:20241104
-DESCRIPTION:Jesenné prázdniny od 30. októbra do 3. novembra 2024.
+    SUMMARY:🍂 Jesenné prázdniny
+    DTSTART;VALUE=DATE:20241030
+    DTEND;VALUE=DATE:20241104
+    DESCRIPTION:Jesenné prázdniny od 30. októbra do 3. novembra 2024.
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:🎄 Vianočné prázdniny
-DTSTART;VALUE=DATE:20241223
-DTEND;VALUE=DATE:20250108
-DESCRIPTION:Vianočné prázdniny od 23. decembra 2024 do 7. januára 2025.
+    SUMMARY:🎄 Vianočné prázdniny
+    DTSTART;VALUE=DATE:20241223
+    DTEND;VALUE=DATE:20250108
+    DESCRIPTION:Vianočné prázdniny od 23. decembra 2024 do 7. januára 2025.
 END:VEVENT
 
 END:VCALENDAR

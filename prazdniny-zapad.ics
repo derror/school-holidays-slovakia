@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Školské prázdniny 2024
+X-WR-CALNAME:Školské prázdniny - východné Slovensko
 X-WR-TIMEZONE:Europe/Bratislava
 
 BEGIN:VEVENT
