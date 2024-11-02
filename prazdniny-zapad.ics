@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Školské prázdniny 2024
+X-WR-TIMEZONE:Europe/Bratislava
+
+BEGIN:VEVENT
+    SUMMARY:🌷 Jarné prázdniny
+    DTSTART;VALUE=DATE:20240224
+    DTEND;VALUE=DATE:20240301
+    DESCRIPTION:Jarné prázdniny pre školy.
+END:VEVENT
+
+BEGIN:VEVENT
+    SUMMARY:🐣 Veľkonočné prázdniny
+    DTSTART;VALUE=DATE:20240401
+    DTEND;VALUE=DATE:20240403
+    DESCRIPTION:Veľkonočné prázdniny pre školy.
+END:VEVENT
+
+BEGIN:VEVENT
+    SUMMARY:🌴 Letné prázdniny
+    DTSTART;VALUE=DATE:20240629
+    DTEND;VALUE=DATE:20240902
+    DESCRIPTION:Letné prázdniny pre školy.
+END:VEVENT
+
+BEGIN:VEVENT
+    SUMMARY:🍂 Jesenné prázdniny
+    DTSTART;VALUE=DATE:20241030
+    DTEND;VALUE=DATE:20241104
+    DESCRIPTION:Jesenné prázdniny pre školy.
+END:VEVENT
+
+BEGIN:VEVENT
+    SUMMARY:🌴 Vianočné prázdniny
+    DTSTART;VALUE=DATE:20241223
+    DTEND;VALUE=DATE:20240108
+    DESCRIPTION:Vianočné prázdniny pre školy.
+END:VEVENT
+
+END:VCALENDAR
